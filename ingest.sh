@@ -20,8 +20,8 @@ python --version
 set -x
 rm -f leftover*.log*
 python $OSC_XALT_DIR/sbin/xalt_syslog_to_db.py \
-	--syshost pitzer \
+	--syshost $LMOD_SYSTEM_NAME \
 	--reverseMapD $XALT_ETC_DIR/reverseMapD \
- 	--leftover leftover_pitzer.log \
+ 	--leftover leftover.log \
 	--confFn $XALT_DB_CONF \
 	--syslog ${logfile}

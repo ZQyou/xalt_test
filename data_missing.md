@@ -16,8 +16,8 @@
 | 14/owens.log  | 33G   | owens/20210614.pq  | 23K  | OOM |
 | 14/pitzer.log | 34G   | pitzer/20210614.pq | 31K  | OOM |
 | 18/pitzer.log | 22G   | pitzer/20210618.pq | 16K  | OOM |
-| 23/pitzer.log | 32G   |
-| 24/pitzer.log | 27G   |
+| 23/pitzer.log | 32G   | | | OOM |
+| 24/pitzer.log | 27G   | | | OOM |
 | 25/owens.log  | 4.0G  | | | invalid start byte |
 | 26/owens.log  | 2.1G  | | | invalid start byte |
 
