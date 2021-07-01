@@ -20,4 +20,5 @@
 | 24/pitzer.log | 27G   | | | OOM |
 | 25/owens.log  | 4.0G  | | | invalid start byte |
 | 26/owens.log  | 2.1G  | | | invalid start byte |
+| 29/owens.log  | 1.8G  | | | invalid start byte |
 
