@@ -22,3 +22,7 @@
 | 26/owens.log  | 2.1G  | | | ~~invalid start byte~~ Done |
 | 29/owens.log  | 1.8G  | | | ~~invalid start byte~~ Done |
 
+### 2021/07
+| Log file | Size | Local database | Size | Reason to reingest |
+| -------- | ---- | -------------- | ---- | ------------------ |
+| 09/pitzer.log  | 21G | | | OOM | 
