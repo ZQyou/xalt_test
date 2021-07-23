@@ -2,6 +2,8 @@
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 09/pitzer.log  | 21G | | | OOM | 
+| 21/owens.log  | 58G | | | OOM | 
+
 
 ### 2021/06
 | Log file | Size | Local database | Size | Reason to reingest |
