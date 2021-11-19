@@ -1,7 +1,7 @@
 ### 2021/11
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
-| 05/pitzer.log  | 34G | | | OOM |
+| 05/pitzer.log  | 34G | | | OOM | 
 | 14/pitzer.log  | 56G | | | OOM | 
 | 15/pitzer.log  | 37G | | | OOM | 
 
