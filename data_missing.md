@@ -1,3 +1,10 @@
+### 2021/12
+| Log file | Size | Local database | Size | Reason to reingest |
+| -------- | ---- | -------------- | ---- | ------------------ |
+| 02/owens.log  | 34G | | | OOM | 
+
+
+
 ### 2021/11
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
