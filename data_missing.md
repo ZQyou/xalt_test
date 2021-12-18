@@ -2,7 +2,7 @@
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 02/owens.log  | 34G | | | OOM | 
-
+| 16/pitzer.log | 6.9G | | | ??? | 
 
 
 ### 2021/11
