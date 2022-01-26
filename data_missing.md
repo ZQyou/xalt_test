@@ -1,3 +1,8 @@
+### 2022/01
+| Log file | Size | Local database | Size | Reason to reingest |
+| -------- | ---- | -------------- | ---- | ------------------ |
+| 24/owens.log | 23G | | | OOM | 
+
 ### 2021/12
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
