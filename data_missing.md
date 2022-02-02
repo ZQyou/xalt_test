@@ -2,13 +2,15 @@
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 24/owens.log | 23G | | | OOM | 
+| 29/pitzer.log | 17G | | | ??? |
+| 31/pitzer.log | 17G | | | ??? |
 
 ### 2021/12
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 02/owens.log  | 34G | | | OOM | 
 | 16/pitzer.log | 6.9G | | | ??? | 
-| 21/owens.log | 21G | | | OOM | 
+| 23/owens.log | 21G | | | OOM | 
 
 
 ### 2021/11
