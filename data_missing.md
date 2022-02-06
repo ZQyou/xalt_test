@@ -1,3 +1,8 @@
+### 2022/02
+| Log file | Size | Local database | Size | Reason to reingest |
+| -------- | ---- | -------------- | ---- | ------------------ |
+| 04/pitzer.log | 15G | | | ??? | 
+
 ### 2022/01
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
