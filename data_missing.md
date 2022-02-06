@@ -1,3 +1,4 @@
+## 2022
 ### 2022/02
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
@@ -10,6 +11,7 @@
 | 29/pitzer.log | 17G | | | ??? |
 | 31/pitzer.log | 17G | | | ??? |
 
+## 2021
 ### 2021/12
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
@@ -37,7 +39,6 @@
 | 21/owens.log   | 58G | | | OOM | 
 | 25/owens.log   | 29G | | | OOM |
 | 25/pitzer.log  | 25G | | | OOM |
-
 
 ### 2021/06
 | Log file | Size | Local database | Size | Reason to reingest |
