@@ -1,10 +1,10 @@
 ## 2022
-### 2022/02
+### 02
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 04/pitzer.log | 15G | | | ??? | 
 
-### 2022/01
+### 01
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 24/owens.log | 23G | | | OOM | 
@@ -12,7 +12,7 @@
 | 31/pitzer.log | 17G | | | ??? |
 
 ## 2021
-### 2021/12
+### 12
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 02/owens.log  | 34G | | | OOM | 
@@ -20,19 +20,19 @@
 | 23/owens.log | 21G | | | OOM | 
 
 
-### 2021/11
+### 11
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 05/pitzer.log  | 34G | | | OOM | 
 | 14/pitzer.log  | 56G | | | OOM | 
 | 15/pitzer.log  | 37G | | | OOM | 
 
-### 2021/10
+### 10
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 21/pitzer.log  | 24G | | | OOM |
 
-### 2021/07
+### 07
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 09/pitzer.log  | 21G | | | OOM | 
@@ -40,7 +40,7 @@
 | 25/owens.log   | 29G | | | OOM |
 | 25/pitzer.log  | 25G | | | OOM |
 
-### 2021/06
+### 06
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 08/owens.log  | 55G 	| owens/20210608.pq  | 8.9K | OOM | 
