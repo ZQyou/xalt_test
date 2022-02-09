@@ -2,14 +2,14 @@
 ### 02
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
-| 04/pitzer.log | 15G | | | ??? | 
+| 04/pitzer.log | 15G | | | MySQL connection | 
 
 ### 01
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
 | 24/owens.log | 23G | | | OOM | 
-| 29/pitzer.log | 17G | | | ??? |
-| 31/pitzer.log | 17G | | | ??? |
+| 29/pitzer.log | 17G | | | MySQL connection |
+| 31/pitzer.log | 17G | | | MySQL connection |
 
 ## 2021
 ### 12
