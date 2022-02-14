@@ -2,7 +2,8 @@
 ### 02
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
-| 04/pitzer.log | 15G | | | MySQL connection | 
+| 04/pitzer.log | 15G | | | MySQL connection |
+| 10/owens.log | 16G | | | MySQL connection |
 
 ### 01
 | Log file | Size | Local database | Size | Reason to reingest |
