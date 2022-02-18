@@ -6,6 +6,7 @@
 | 10/owens.log | 16G | | | MySQL connection |
 | 14/pitzer.log | 19G | | | MySQL connection |
 | 15/pitzer.log | 17G | | | MySQL connection |
+| 16/pitzer.log | 17G | | | MySQL connection |
 
 ### 01
 | Log file | Size | Local database | Size | Reason to reingest |
