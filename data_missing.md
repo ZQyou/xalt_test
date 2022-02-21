@@ -7,6 +7,7 @@
 | 14/pitzer.log | 19G | | | MySQL connection |
 | 15/pitzer.log | 17G | | | MySQL connection |
 | 16/pitzer.log | 17G | | | MySQL connection |
+| 17/pitzer.log | 16G | | | Cannot add or update a child row: a foreign key constraint fails |
 
 ### 01
 | Log file | Size | Local database | Size | Reason to reingest |
