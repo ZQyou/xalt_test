@@ -1,4 +1,9 @@
 ## 2022
+### 03
+| Log file | Size | Local database | Size | Reason to reingest |
+| -------- | ---- | -------------- | ---- | ------------------ |
+| 01/pitzer.log | 20G | | | Deadlock found when trying to get lock |
+
 ### 02
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
@@ -8,6 +13,7 @@
 | 15/pitzer.log | 17G | | | ~~MySQL connection~~ |
 | 16/pitzer.log | 17G | | | ~~MySQL connection~~ |
 | 17/pitzer.log | 16G | | | Cannot add or update a child row: a foreign key constraint fails |
+| 28/pitzer.log | 20G | | | ??? |
 
 ### 01
 | Log file | Size | Local database | Size | Reason to reingest |
