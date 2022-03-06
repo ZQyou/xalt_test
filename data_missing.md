@@ -5,7 +5,7 @@
 | 01/pitzer.log | 20G | | | Deadlock found when trying to get lock (Large file?) |
 | 02/pitzer.log | 24G | | | OOM |
 | 03/pitzer.log | 15G | | | Deadlock found when trying to get lock (Large file?) |
-| 04/pitzer.log | 17 | | | Deadlock found when trying to get lock (Large file?) |
+| 04/pitzer.log | 17G | | | Deadlock found when trying to get lock (Large file?) |
 
 ### 02
 | Log file | Size | Local database | Size | Reason to reingest |
