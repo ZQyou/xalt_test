@@ -9,6 +9,7 @@
 | 08/pitzer.log | 25G | | | OOM |
 | 20/pitzer.log | 29G | | | OOM |
 | 21/pitzer.log | 24G | | | OOM |
+| 23/pitzer.log | 21G | | | OOM |
 
 ### 02
 | Log file | Size | Local database | Size | Reason to reingest |
