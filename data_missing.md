@@ -14,7 +14,7 @@
 | 26/owens.log | 40G | | | OOM |
 | 27/pitzer.log | 22G | | | OOM | 
 | 28/pitzer.log | 23G | | | OOM |
-| 30/owens.log | 30G | | OOM |
+| 30/owens.log | 30G | | | OOM |
 
 ### 02
 | Log file | Size | Local database | Size | Reason to reingest |
