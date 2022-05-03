@@ -11,7 +11,9 @@
 | 11/owens.log | 24G | | | OOM |
 | 11/pitzer.log | 30G | | | OOM |
 | 12/pitzer.log | 24G | | | OOM |
-
+| 13/pitzer.log | 32G | | | OOM |
+| 14/pitzer.log | 30G | | | OOM |
+| 17/pitzer.log | 26G | | | OOM |
 
 ### 03
 | Log file | Size | Local database | Size | Reason to reingest |
