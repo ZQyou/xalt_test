@@ -2,6 +2,11 @@
 ### 04
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
+| 02/pitzer.log | 25G | | | OOM |
+
+### 04
+| Log file | Size | Local database | Size | Reason to reingest |
+| -------- | ---- | -------------- | ---- | ------------------ |
 | 04/pitzer.log | 40G | | | OOM |
 | 05/pitzer.log | 22G | | | OOM |
 | 06/pitzer.log | 59G | | | OOM |
@@ -14,6 +19,7 @@
 | 13/pitzer.log | 32G | | | OOM |
 | 14/pitzer.log | 30G | | | OOM |
 | 17/pitzer.log | 26G | | | OOM |
+| 29/pitzer.log | 21G | | | OOM |
 
 ### 03
 | Log file | Size | Local database | Size | Reason to reingest |
