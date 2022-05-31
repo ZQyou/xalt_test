@@ -7,6 +7,8 @@
 | 21/pitzer.log | 39G | | | OOM |
 | 23/owens.log | 21G | | | OOM |
 | 24/owens.log | 23G | | | OOM |
+| 26/owens.log | 38.4G | | | OOM |
+| 27/owens.log | 58.2G | | | OOM |
 | 28/owens.log | 55.7G | | | OOM |
 | 29/owens.log | 56.9G | | | OOM |
 
