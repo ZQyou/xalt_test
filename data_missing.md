@@ -12,6 +12,7 @@
 | 28/owens.log | 55.7G | | | OOM |
 | 29/owens.log | 56.9G | | | OOM |
 | 30/owens.log | 62.5G | | | OOM |
+| 31/owens.log | 55.1G | | | OOM |
 
 ### 04
 | Log file | Size | Local database | Size | Reason to reingest |
