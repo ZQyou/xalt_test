@@ -43,10 +43,10 @@
 | 21/pitzer.log | 24G | | | OOM | :white_check_mark: |
 | 23/pitzer.log | 21G | | | OOM | :white_check_mark: |
 | 24/pitzer.log | 31G | | | OOM | :white_check_mark: |
-| 26/owens.log | 40G | | | OOM | | :white_check_mark: |
+| 26/owens.log | 40G | | | OOM | :white_check_mark: |
 | 27/pitzer.log | 22G | | | OOM | :white_check_mark: |
 | 28/pitzer.log | 23G | | | OOM | :white_check_mark: |
-| 30/owens.log | 30G | | | OOM | | :white_check_mark: |
+| 30/owens.log | 30G | | | OOM | :white_check_mark: |
 
 ### 02
 | Log file | Size | Local database | Size | Reason to reingest | Reingested |
