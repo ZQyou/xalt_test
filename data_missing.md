@@ -1,4 +1,15 @@
 ## 2022
+### 07
+| Log file | Size | Local database | Size | Reason to reingest | Reingested |
+| -------- | ---- | -------------- | ---- | ------------------ | ---------- |
+| 01/owens.log | 95.5G | | | OOM | |
+
+
+### 06
+| Log file | Size | Local database | Size | Reason to reingest | Reingested |
+| -------- | ---- | -------------- | ---- | ------------------ | ---------- |
+| 30/owens.log | 35.9G | | | OOM | |
+
 ### 05
 | Log file | Size | Local database | Size | Reason to reingest |
 | -------- | ---- | -------------- | ---- | ------------------ |
