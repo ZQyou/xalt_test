@@ -1,4 +1,9 @@
 ## 2022
+### 08
+| Log file | Size | Local database | Size | Reason to reingest | Reingested |
+| -------- | ---- | -------------- | ---- | ------------------ | ---------- |
+| 23/pitzer.log | 21G | | | OOM | |
+
 ### 07
 | Log file | Size | Local database | Size | Reason to reingest | Reingested |
 | -------- | ---- | -------------- | ---- | ------------------ | ---------- |
