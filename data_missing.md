@@ -3,6 +3,8 @@
 | Log file | Size | Local database | Size | Reason to reingest | Reingested |
 | -------- | ---- | -------------- | ---- | ------------------ | ---------- |
 | 10/owens.log | 21G | | | OOM | |
+| 11/owens.log | 29.5G | | | OOM | |
+
 
 ### 08
 | Log file | Size | Local database | Size | Reason to reingest | Reingested |
